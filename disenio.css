@@ -1,0 +1,21 @@
+div {
+    color: blue;
+    width: 320px;
+    border-color: darkblue;
+    border-style: double;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+p {
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkblue;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 5px;
+}
